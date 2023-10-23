@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "scripts": {
+    "backup": "git add . && git commit -m \"chore: backup\" && git push"
+  }
+}
